@@ -10,7 +10,8 @@ Aplicação desktop desenvolvida em **C# (Windows Forms)** para a disciplina de 
 * **Curso:** Técnico em Informática
 * **Turma:** 3F
 * **Data de Entrega:** 25/09/2026
-* **Autores:** *[Inserir Nomes dos Integrantes]*
+* **Autores:** Pedro Ricarte Gisler
+* Julia Carolina Maciel
 
 ---
 
