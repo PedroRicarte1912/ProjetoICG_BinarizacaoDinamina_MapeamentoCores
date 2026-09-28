@@ -1,0 +1,25 @@
+# Pastas de saída de compilação (Arquivos gerados automaticamente)
+bin/
+obj/
+out/
+
+# Configurações locais e temporárias do Visual Studio
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+
+# Dependências baixadas via NuGet
+packages/
+
+# Arquivos de log e banco de dados temporários do ambiente local
+*.log
+*.ldf
+*.mdf
+
+# Arquivos do sistema operacional
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
